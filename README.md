@@ -1,0 +1,2 @@
+# Paraxial-Helmholtz-equation
+ Paraxial Helmholtz equation ∂φ∂y= ((−i) /2*k )∂2φ/∂x2, which looks like the unsteady heat equation except that y is % the time-like variable and the coefficient of the second derivative is imaginary. In this equation, φ is a complex variable representing the  phase  and   amplitude  of  the  wave  and k is  the  wave  number  equal  to 2π/λ,  where λ is  the wavelength.
